@@ -1,5 +1,8 @@
 #### Final Task IDX Partners Data Engineer Virtual Internship  by Adrian Maulana Muhammad
 
+# Presentation Recording
+- [https://www.youtube.com/watch?v=Tbi_46TBJHg](https://www.youtube.com/watch?v=Tbi_46TBJHg)
+
 # Project Description
 One of the clients of ID/X Partners, operating in the e-commerce industry, has a requirement to create a Data Warehouse from multiple tables in the source database. This Data Warehouse will consist of one Fact table and several Dimension tables. As a Data Engineer, there are several tasks that need to be performed:
 - Importing/Restoring the Staging Database.
@@ -18,6 +21,3 @@ One of the clients of ID/X Partners, operating in the e-commerce industry, has a
 
 # Dashboard
 ![](https://raw.githubusercontent.com/adrn-mm/FinalTask_IDX-Partners_DE_Adrian-Maulana-Muhammad/master/images/dashboard.png)
-
-# Presentation Recording
-- On going
